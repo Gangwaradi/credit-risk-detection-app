@@ -38,7 +38,6 @@ gunicorn==19.9.0
 itsdangerous==1.1.0
 Werkzeug==0.15.5
 scipy>=0.15.1
-scikit-learn==0.22.1
 flasgger==0.9.4
 streamlit
 jupyterlab-widgets==1.0.0
