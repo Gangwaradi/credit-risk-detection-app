@@ -1,3 +1,4 @@
+python==3.6
 wheel
 altair==4.1.0
 argon2-cffi==20.1.0
@@ -31,7 +32,7 @@ jedi==0.18.0
 Jinja2==3.0.1
 joblib==1.0.1
 jsonschema==3.2.0
-jupyter-client==3.6.1
+jupyter-client==6.2.0
 jupyter-core==4.7.1
 jupyterlab-pygments==0.1.2
 Flask==1.1.1
