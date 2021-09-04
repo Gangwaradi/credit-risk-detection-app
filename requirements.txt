@@ -1,4 +1,4 @@
-python==3.6
+python==3.6.1
 wheel
 altair==4.1.0
 argon2-cffi==20.1.0
