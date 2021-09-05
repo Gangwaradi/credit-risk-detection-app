@@ -71,7 +71,7 @@ pytz==2021.1
 pypiwin32==223
 pyzmq==22.1.0
 requests==2.26.0
-scikit-learn==0.24.2
+scikit-learn==1.5.4
 scipy==1.7.0
 Send2Trash==1.7.1
 six==1.16.0
