@@ -4,8 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.sparse import hstack
 from joblib import dump, load
+st.text('Adesh Kumar (@gangwaradi)\n05.09.2021')
 @st.cache
-st.text('Adesh Kumar\n05.09.2021')
 def load_data():
     sc = load('state_city.pkl')
     model = load('model.pkl')
